@@ -16,6 +16,7 @@ Passionate about building mobile apps, testing software, and exploring AI.
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Laravel](https://img.shields.io/badge/Laravel--1572B6?style=flat-square&logo=Laravel)
+![PHP](https://img.shields.io/badge/PHP--1572B6?style=flat-square&logo=PHP)
 
 
 
